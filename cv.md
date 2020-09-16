@@ -1,21 +1,21 @@
-## Elena Sevastian
+# Elena Sevastian
 
-### Junior Frontend Developer
+## Junior Frontend Developer
 
 _Kremenchuk, Ukraine_
 
-#### Contacts:
+### Contacts:
 
 - tel: +380971908799
 - email: [enelipa@gmail.com](mailto:enelipa@gmail.com)
 - Telegram: [https://t.me/Ellankz](https://t.me/Ellankz)
 - Github: [https://github.com/ellankz](https://github.com/ellankz)
 
-#### About me:
+### About me:
 
 I have 3+ years of experience in front-end development, which includes a lot a work with HTML, CSS, Wordpress and jQuery. My current most used technologies are: React.js, Typescript, Gatsby. JS, SCSS, HTML5, Node.js. I believe good communication is essential to success. My priorities are good quality and delivering projects on time. I do my best to set realistic deadlines. I invite you to check out my GitHub profile: https://github.com/ellankz
 
-#### Skills:
+### Skills:
 
 - Languages:
   - JavaScript
@@ -30,14 +30,14 @@ I have 3+ years of experience in front-end development, which includes a lot a w
   - jQuery
   - Node.js
 
-#### Languages:
+### Languages:
 
 - English - advanced
 - Ukrainian - native
 - Russian - native
 - German - beginner
 
-#### Experience
+### Experience
 
 1. **Frelance Frontend developer**
 
@@ -60,7 +60,7 @@ I have 3+ years of experience in front-end development, which includes a lot a w
 
    The job was to translate texts into English as well as compose texts from scratch with given keywords.
 
-#### Education
+### Education
 
 1. **MongoDB University**
 
